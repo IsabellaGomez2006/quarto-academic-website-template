@@ -14,7 +14,7 @@ page-layout: full
 
 [Making sense of the social world.]{.hero-subtitle}
 
-I'm an undergraduate at Loyola Marymount Univerty. My major is Politcial Science and I am interested in philantrophy, politics, and what we can learn from data. This website is a way to get to know me.
+I'm an undergraduate at Loyola Marymount Univerty. My major is Politcial Science and I am interested in philantrophy, politics, and what we can learn from data. This website is a way to get to know me. Update.
 
 [Take a look at my resume](research.qmd){.primary-link} [Email me ](igomez14@lion.lmu.edu){.quiet-link}
 :::
