@@ -29,7 +29,7 @@ I'm interested in how people participate in public life, how communities differ,
 
 ## What comes next
 
-I'd like to compare the same countries over time and consider what these measures leave out.
+I'd like to anaylze the tweets of our current president during his first term.
 
 ```{=html}
 <iframe src="research_poster.html" width="100%" height="600px"></iframe>
