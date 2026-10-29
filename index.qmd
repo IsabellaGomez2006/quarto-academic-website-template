@@ -31,7 +31,7 @@ I'm an undergraduate at Loyola Marymount Univerty. My major is Politcial Science
 
 ## Questions worth asking
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+How do the places we live shape our opportunities? I'm passionate about broadening my horazion and learning about different cultures .
 
 [Academic interests & research](research.qmd)
 :::
@@ -41,8 +41,7 @@ How do the places we live shape our opportunities? I'm learning to turn broad qu
 
 ## Learning by noticing
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
-
+A new place, a good conversation, and new experiences are important parts of expanding yourself
 [Read my latest notes](blog.qmd)
 :::
 ::::
